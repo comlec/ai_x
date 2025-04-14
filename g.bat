@@ -1,3 +1,3 @@
 git add .
-git commit -m "튜플"
+git commit -m "데이터구조연습문제"
 git push -u origin main
