@@ -1,3 +1,3 @@
 git add .
-git commit -m "제어문"
+git commit -m "환경설정"
 git push -u origin main
