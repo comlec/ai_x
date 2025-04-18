@@ -11,6 +11,16 @@ def fibonacci_return(n):
         result.append(a)
         a, b = b, a+b
     return result
+'테스트 : python fibo.py / python fibo.py 200'
+if __name__=="__main__":
+    import sys
+    print(sys.argv)
+    if len(sys.argv) > 1:
+        n = int(sys.argv)
+        print('1, print test : ', end='')
+        fibonacci_print(n)
+        print('2. return test :', fibonacci_return(n))
+    
 
 
 
