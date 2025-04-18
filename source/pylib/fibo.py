@@ -16,11 +16,14 @@ if __name__=="__main__":
     import sys
     print(sys.argv)
     if len(sys.argv) > 1:
-        n = int(sys.argv)
+        n = int(sys.argv[1])
         print('1, print test : ', end='')
-        fibonacci_print(n)
+        fibonacci_print(n) 
         print('2. return test :', fibonacci_return(n))
-    
+    else:
+        print('1, print test : ', end='')
+        fibonacci_print(100)
+        print('2. return test :', fibonacci_return(100))
 
 
 
