@@ -1,3 +1,3 @@
 git add .
-git commit -m "python예외처리"
+git commit -m "python파일i/o"
 git push -u origin main
