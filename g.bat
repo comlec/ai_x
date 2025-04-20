@@ -1,3 +1,3 @@
 git add .
-git commit -m "python파일i/o"
+git commit -m "python파일i/o★"
 git push -u origin main
