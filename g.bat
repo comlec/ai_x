@@ -1,3 +1,3 @@
 git add .
-git commit -m "파일io연습문제"
+git commit -m "numpy배열"
 git push -u origin main
