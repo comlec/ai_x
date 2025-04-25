@@ -21,8 +21,10 @@ Numpy 패키지 함수와 속성
    np.arange(from, stop, step) : from부터 stop앞까지 step 증감하는 1차원 배열
    
 - 배열 차원 변경
-  reshape()
+  reshape([면수,] 행수, 열수,) : -1 사용하면 자동계산
+  resize( tup ) : -1 불가
   ravel(), flatten() : 1차원 변경
+  transpose()나 T : 전치행렬
 
 
 
