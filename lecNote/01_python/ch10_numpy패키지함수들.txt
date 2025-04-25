@@ -49,17 +49,3 @@ Numpy 패키지 함수와 속성
   np.hsplit(ary, 정수나 인덱스벡터) == np.split(ary, 정수나 인덱스벡터, axis=1)
   np.dsplit(ary, 정수나 인덱스벡터) == np.split(ary, 정수나 인덱스벡터, axis=-1)
   np.array_split(ary, 정수나 인덱스벡터, axis) : 나눠지지 않는 정수로도 split 가능
-
-
-
-
-
-
-
-
-
-
-
-
-
-
