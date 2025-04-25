@@ -25,6 +25,30 @@ Numpy 패키지 함수와 속성
   resize( tup ) : -1 불가
   ravel(), flatten() : 1차원 변경
   transpose()나 T : 전치행렬
+  ary[:, np.newaxis], np.expand_dims(ary, axis) 차원증가
+
+- 배열연산
+  요소별 연산, 브로드케이스팅
+  행렬연산(2차원) @(dot함수), 단위행렬(정방행렬)
+  범용함수 np.add(), np.multiply(), np.substract(), np.sqrt()
+
+- 배열 합치기
+  np.vstack(tup)
+  np.hstack(tup)
+  np.dstack(tup) : 마지막 축(열)들끼리 합침
+
+  np.column_stack(tup) : 1차원 배열을 열단위로 배열하여 2차원으로 합침
+  np.row_stack(tup) : 행단위로 합침
+  np.stack(tup, axis)
+  
+  np.r_[a, b,..] : row단위로 쌓음
+  np.c_[a, b,..] : 컬럼으로 쌓아서 합침
+
+- 배열 분리하기
+
+
+
+
 
 
 
