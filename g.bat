@@ -1,3 +1,3 @@
 git add .
-git commit -m "numpy배열"
+git commit -m "Numpy 배열"
 git push -u origin main
