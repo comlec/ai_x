@@ -1,3 +1,3 @@
 git add .
-git commit -m "선형대수"
+git commit -m "Numpy 배열"
 git push -u origin main
