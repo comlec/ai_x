@@ -1,3 +1,3 @@
 git add .
-git commit -m "시각화"
+git commit -m "Pandas데이터프레임"
 git push -u origin main
