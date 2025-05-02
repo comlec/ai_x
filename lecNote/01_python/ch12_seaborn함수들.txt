@@ -1,0 +1,4 @@
+1) 데이터준비
+2) 미적속성설정 - sns.set(style='darkgrid',
+                                context='notebook', 배율
+                       sns.set_style...
