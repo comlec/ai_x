@@ -1,3 +1,3 @@
 git add .
-git commit -m "seaborn 시각화"
+git commit -m "matplotlib 시각화"
 git push -u origin main
