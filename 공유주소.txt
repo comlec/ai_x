@@ -1,3 +1,3 @@
 https://github.com/comlec/ai_x (lecNote와 source 폴더 공유)
 https://lrl.kr/eiHQS  (download폴더 공유)
-\\192.168.0.25 (강사용 PC)
+\\192.168.0.41 (강사용 PC)
