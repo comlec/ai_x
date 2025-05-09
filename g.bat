@@ -1,3 +1,3 @@
 git add .
-git commit -m "HTML/CSS"
+git commit -m "상가정보 분석"
 git push -u origin main
